@@ -13,7 +13,7 @@ To run this program enter the following commands:
 
 To open files in another text editor run:
 
--./linux/todoScript.sh textEditor
+- ./linux/todoScript.sh textEditor
 
 To view a list of all logged files go to ./linux/logs
 
