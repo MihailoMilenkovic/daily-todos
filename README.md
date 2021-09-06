@@ -15,7 +15,7 @@ To view a list of all logged files go to ./linux/logs
 
 ## Windows
 
-This program allows you to track daily todos. It opens a new file with todos every day and saves the files locally.
+This program allows you to track daily todos. It opens a new file with todos every day in notepad and saves the files locally.
 
 To run this program just run the file located at windows\todoScript.bat
 
