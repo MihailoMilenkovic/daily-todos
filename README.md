@@ -11,6 +11,10 @@ To run this program enter the following commands:
 - chmod +x ./linux/todoScript.sh
 - ./linux/todoScript.sh
 
+To open files in another text editor run:
+
+-./linux/todoScript.sh textEditor
+
 To view a list of all logged files go to ./linux/logs
 
 ## Windows
