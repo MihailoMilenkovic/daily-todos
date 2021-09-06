@@ -1,15 +1,15 @@
 ### Weekly overview
 
-## things I did well:
+## Things I did well:
 -
 -
 -
 -
 
-## things that could be improved:
+## Things that could be improved:
 -
 -
 -
 -
 
-## notes
+## Notes
