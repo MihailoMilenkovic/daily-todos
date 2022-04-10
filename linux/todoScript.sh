@@ -8,7 +8,7 @@ cd "$currDir/logs"
 if test -f "$now.md"; then
     echo "$now.md exists"
 else
-    cp ../template.md $now.md
+    cp ./template.md $now.md
 fi
 textEditor=vim
 echo $#
@@ -24,7 +24,7 @@ then
     if test -f "$nedelja"; then
         echo "$nedelja exists"
     else
-        cp ../templateWeek.md $nedelja
+        cp ./templateWeek.md $nedelja
     fi
     $textEditor $nedelja
 fi
